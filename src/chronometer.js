@@ -11,6 +11,7 @@ class Chronometer {
         printTimeCallback();
       }
     }, 1000)
+
   }
 
   getMinutes() {
